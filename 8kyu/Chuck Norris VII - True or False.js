@@ -12,5 +12,5 @@
 // Suggest kata description edits
 
 function ifChuckSaysSo(param) {
-  return param = false;
+  return !true;
 }
